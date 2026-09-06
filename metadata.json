@@ -1,0 +1,6 @@
+{
+  "name": "منصة أستاذ الكيمياء",
+  "description": "المنصة التعليمية المتكاملة لمادة الكيمياء - إدارة المحاضرات والواجبات، متابعة الحضور والنسب، والتواصل المباشر مع أولياء الأمور",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
